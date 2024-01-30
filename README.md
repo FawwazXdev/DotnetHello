@@ -1,2 +1,0 @@
-# DotnetHello
-Just a starter
